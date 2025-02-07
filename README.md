@@ -1,8 +1,12 @@
 # Machine Learning Based Crop Recommendation System
 
-![GreenYield](screenshot1.png)
-![GreenYield](screenshot2.png)
-![GreenYield](screenshot3.png)
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Jayasurya5454/GreenYield/blob/main/Assets/screenshot1.png" alt="GreenYield" width="300">
+  <img src="https://github.com/Jayasurya5454/GreenYield/blob/main/Assets/screenshot3.png" alt="GreenYield" width="300" >
+  <img src="https://github.com/Jayasurya5454/GreenYield/blob/main/Assets/screenshot2.png" alt="GreenYield" width="300">
+</div>
+
+
 
 This project is a machine learning-based system designed to recommend the most suitable crops based on various parameters like soil type, weather conditions, and historical data. The system utilizes algorithms such as Naive Bayes and Random Forest to ensure high accuracy in its recommendations.
 
